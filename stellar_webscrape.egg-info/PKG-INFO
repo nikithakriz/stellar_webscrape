@@ -1,13 +1,13 @@
 Metadata-Version: 2.1
 Name: stellar_webscrape
-Version: 0.0.1
-Summary: A Python package for web scraping with Selenium.
-Home-page: 
+Version: 0.1.1
+Summary: A Python package for web scraping.
+Home-page: https://github.com/nikithakrishnan/stellar-webscrape
 Author: Nikitha Krishnan
 Author-email: Nikitha Krishnan <nikithakrishnan123@gmail.com>
 Classifier: Programming Language :: Python :: 3
 Classifier: License :: OSI Approved :: MIT License
-Requires-Python: >=3.9
+Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 License-File: LICENSE
 
@@ -17,12 +17,19 @@ StellarWebScrape is a Python package for web scraping using Selenium. It allows 
 
 ## Installation
 
-To install StellarWebScrape, clone the repository and use `pip`:
+To install StellarWebScrape, You can install the package from `TestPyPI`:
+
+```sh
+pip install stellar-webscrape==0.1.1
+```
+
+or you clone the repository and use `pip`:
 
 ```bash
 pip install .
 
 ```
+
 ## Usage
 You can run the scraper from the command line or use it programmatically:
 
