@@ -1,0 +1,14 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+stellar_webscrape/__init__.py
+stellar_webscrape/config.py
+stellar_webscrape/scraper.py
+stellar_webscrape/utils.py
+stellar_webscrape.egg-info/PKG-INFO
+stellar_webscrape.egg-info/SOURCES.txt
+stellar_webscrape.egg-info/dependency_links.txt
+stellar_webscrape.egg-info/top_level.txt
+tests/__init__.py
+tests/test_scraper.py
