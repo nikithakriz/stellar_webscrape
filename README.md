@@ -4,12 +4,19 @@ StellarWebScrape is a Python package for web scraping using Selenium. It allows 
 
 ## Installation
 
-To install StellarWebScrape, clone the repository and use `pip`:
+To install StellarWebScrape, You can install the package from `TestPyPI`:
+
+```sh
+pip install -i https://test.pypi.org/simple/ stellar-webscrape
+```
+
+or you clone the repository and use `pip`:
 
 ```bash
 pip install .
 
 ```
+
 ## Usage
 You can run the scraper from the command line or use it programmatically:
 
