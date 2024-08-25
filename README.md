@@ -1,6 +1,6 @@
 # StellarWebScrape
 
-StellarWebScrape is a Python package for web scraping using Selenium. It allows you to scrape text content from web pages and save it to files.
+StellarWebScrape is a Python package for web scraping. It allows you to scrape text content from web pages and save it to files.
 
 ## Installation
 
